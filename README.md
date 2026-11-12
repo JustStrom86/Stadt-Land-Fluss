@@ -6,3 +6,4 @@ Dortmund;Deutschland;Donau;Damian;Dachdecker
 Köln;Kamerun;Kongo;Kevin;Kinderarzt;
 Prag;Polen;Po,Paul;PR-Manager
 Warschau;Weißrussland;Weser;Wilhelm;Wirt
+Zürich;Zypern;Zorn;Zara;Zahnarzt
